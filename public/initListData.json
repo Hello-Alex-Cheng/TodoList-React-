@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "data": [
+        "create-react-app是基于node上起的服务，所以我们可以在public文件中写json文件，通过axios来请求",
+        "Racing car sprays burning fuel into crowd.",
+        "Japanese princess to wed commoner.",
+        "Australian walks 100km after outback crash.",
+        "Man charged over missing wedding girl.",
+        "Los Angeles battles huge wildfires."
+    ]
+  }
+  
